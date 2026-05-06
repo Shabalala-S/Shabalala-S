@@ -7,9 +7,11 @@ Achieved 7 distinctions in Matric from a public school with limited resources. M
 Currently **mastering** **Python** and **C++**.
 
 With **Python:**
+
 I am building practical tools that help South African students facing similar challenges I faced.
 
 With **C++:**
+
 I've built a Snake Game Simulation and AI Bot.
 
 Always **learning**. Always **building**. Always **SOLVING!**
