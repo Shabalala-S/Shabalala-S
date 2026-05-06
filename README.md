@@ -1,4 +1,4 @@
-## Hi, I'm Shabalala-S! 👋
+## Hi, I'm Shabalala_S! 👋
 
 First-year BSc in Computer Science student at Wits University.
 
