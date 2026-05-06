@@ -12,5 +12,5 @@ I am building practical tools that help South African students facing similar ch
 With **C++:**
 I've built a Snake Game Simulation and AI Bot.
 
-Always **learning**. Always **building**. $Always **SOLVING!**$
+Always **learning**. Always **building**. Always **SOLVING!**
 
